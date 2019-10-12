@@ -19,4 +19,3 @@ lassie.name = "Lassie"
 
 
 lassie.bark
-lassie.name 
