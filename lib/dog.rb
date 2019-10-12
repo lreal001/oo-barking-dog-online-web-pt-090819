@@ -20,5 +20,5 @@ puts lassie.name
 
 
 
-.bark
-.name 
+lassie.bark
+lassie.name 
